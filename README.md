@@ -26,8 +26,8 @@ The following configuration steps are performed automatically:
 
 ## Fetch files
 ```
-$ git clone https://github.com/MISP/misp-docker
-$ cd misp-docker
+$ git clone https://github.com/grimesjo33/threat-intel-docker.git
+$ cd threat-intel-docker
 # Copy template.env to .env (on the root directory) and edit the environment variables at .env file
 $ cp template.env .env
 $ vi .env
